@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Training GIT repository
 
 In order to uptade this repository please send us your CV
@@ -9,3 +10,6 @@ In order to uptade this repository please send us your CV
 In order to start contribute with us you have to clone this repo.
 
 #test2
+=======
+# git-training
+>>>>>>> origin/master
